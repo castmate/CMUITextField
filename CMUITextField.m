@@ -22,7 +22,7 @@
 
     self = [super initWithCoder:aDecoder];
     
-    self.bottomBorderHeight = 1.5;
+    self.bottomBorderHeight = 1.0;
     [self addBottomBorder];
 
     
